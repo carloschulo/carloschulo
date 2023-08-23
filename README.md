@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on cyber security intelligence software using React, Redux, Rails, and other libraries. 
+- 🔭 I’m currently working on cyber security intelligence software at Google.
 - 📫 How to reach me: carlos@carlosrh.com
-- ⚡ Fun fact: I've played the guitar since I was 12 (24 years!), I also have some music on Spotify.
+- ⚡ Fun fact: I've played the guitar since I was 12, I also have some music on Spotify.
 <!--
 **carloschulo/carloschulo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
